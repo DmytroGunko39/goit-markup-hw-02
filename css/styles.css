@@ -65,7 +65,8 @@ a {
   font-size: 56px;
   line-height: 1.07;
   letter-spacing: 0.02em;
-  color: #fff;
+  text-align: center;
+  color: #ffffff;
 }
 
 .main-button {
@@ -132,11 +133,13 @@ a {
   font-size: 36px;
   line-height: 1.11;
   letter-spacing: 0.02em;
+  text-align: center;
   color: #2e2f42;
   text-transform: capitalize;
 }
 
 .team-list {
+  background-color: #ffffff;
 }
 
 .team-item {
