@@ -96,14 +96,14 @@ a {
 
 /*<-------------sectione-quote 3----------->*/
 
-.section-quote {
+/* .section-quote {
 }
 
 .section-list {
 }
 
 .section-item {
-}
+} */
 
 .quote-title {
   font-weight: 500;
@@ -136,15 +136,15 @@ a {
   text-transform: capitalize;
 }
 
-.team-list {
-}
+/* .team-list {
+} */
 
 .team-item {
   background-color: #ffffff;
 }
 
-.team-img {
-}
+/* .team-img {
+} */
 
 .team-name {
   font-weight: 500;
@@ -163,8 +163,8 @@ a {
 
 /*<-------------sectione-Portfolio 5----------->*/
 
-.section-portfolio {
-}
+/* .section-portfolio {
+} */
 .portfolio-title {
   font-weight: 700;
   font-size: 36px;
@@ -175,12 +175,12 @@ a {
   text-transform: capitalize;
 }
 
-.portfolio-list {
+/* .portfolio-list {
 }
 .portfolio-item {
 }
 .portfolio-img {
-}
+} */
 .widget-title {
   font-weight: 500;
   font-size: 20px;
